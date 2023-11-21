@@ -9,4 +9,8 @@
 
 #### Links and References: 
 - <a href="https://catalog.data.gov/dataset/violent-crime-rate-e971e/resource/9676b08c-92c7-4803-94fc-1cb80ed67179"> Violent Crime Rate California 2000 - 2013 </a>
+<<<<<<< HEAD
 - <a href="https://catalog.data.gov/dataset/nypd-arrests-data-historic"> NYPD Arrest Data (Historic) </a>
+=======
+- <a href="https://catalog.data.gov/dataset/violent-crime-rate-e971e/resource/9676b08c-92c7-4803-94fc-1cb80ed67179"> NYPD Arrest Data (Historic)</a>
+>>>>>>> 09cbadec2f55b421d829464838dc71295c73e90c
