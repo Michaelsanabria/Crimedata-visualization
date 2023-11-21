@@ -4,3 +4,5 @@
 Python>=3.8,<4.0
 
 # Libraries / Frameworks:
+- matplotlib      3.8.2
+- numpy           1.26.2
