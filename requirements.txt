@@ -1,0 +1,6 @@
+# Project name: Crime data visualization
+
+# Python Version 
+Python>=3.8,<4.0
+
+# Libraries / Frameworks:
